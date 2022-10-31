@@ -23,7 +23,7 @@ const Navbar = () => {
             <Link to="/contact">Contato</Link>
           </li>
           <li className={styles.item}>
-            <Link to="/company">Company</Link>
+            <Link to="/company">Empresa</Link>
           </li>
         </ul>
       </Container>
