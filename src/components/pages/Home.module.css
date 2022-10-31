@@ -28,3 +28,9 @@
     margin: 2em 0;
 }
 
+@media (max-width: 900px) {
+    .home_container {
+        width: 137px
+    }
+}
+

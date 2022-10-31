@@ -18,3 +18,10 @@
     flex-direction: column;
     justify-content: flex-start;
 }
+
+
+@media (max-width: 1000px) {
+    .container {
+        width: 100%
+    }
+}
