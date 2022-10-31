@@ -17,7 +17,7 @@ const Fotter = () => {
         </li>
       </ul>
       <p className={styles.copy_right}>
-        <span>Devepment production</span> &copy; 2022
+        <span>Deveploment production</span> &copy; 2022
       </p>
     </footer>
   );
