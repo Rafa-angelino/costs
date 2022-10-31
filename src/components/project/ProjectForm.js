@@ -84,7 +84,7 @@ const ProjectForm = ({  projectData }) => {
       name='date'
       text='Data para conclusão do projeto'
       />
-      <textarea></textarea>
+      <textarea rows='4' cols='50' placeholder="Insira as observações do projeto"></textarea>
       <Select
         name="category_id"
         text="Selecione a categoria"
