@@ -1,5 +1,7 @@
 # Trabalho de Desenvolvimento Web
 
+<p>Página de uma empresa em que gera o orçamento de softwares para outras empresas</p>
+
 <h1>Integrantes: </h1>
 - Rafael Angelino<br>
 - Kauan Fiolo da Silva<br>
